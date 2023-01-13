@@ -1,7 +1,7 @@
 ### Gene Expression Clustering
 
 #### Problem
-Gene expression data from different types of cancerous tumor may be used to identify various cancer subtypes, and assess commonalities and differences between them. The number of gene expressions measured usually exceeds the number of observations (or samples) in gene expression datasets. High dimensionality problems such as these require careful application of dimensionality reduction techniques prior to analysis and modeling.
+Gene expression data from different types of cancerous tumor may be used to identify various cancer subtypes, and assess commonalities and differences between them. The number of gene expressions measured usually exceeds the number of observations (or samples) in gene expression datasets. High dimensionality problems such as these require careful application of dimensionality reduction techniques prior to modeling.
 
 #### Jupyter Notebooks and scripts
 * Cluster_Analysis.ipynb includes initial data exploration and visualization. Variance threshold filtering is used together with Principal Component Analysis to perform dimensionality reduction prior to clustering. 
