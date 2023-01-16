@@ -13,4 +13,4 @@ The dataset may be found here:
 * https://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq#
 
 #### Business Case
-Categorization of cancer subtypes may allow for more specialized research to be performed, as well as for specialized treatment and diagnosis programs to be developed for patients.
+Categorization of cancer subtypes may allow for more specialized research to be performed, as well as for the development of specialized treatment and diagnosis programs for patients.
