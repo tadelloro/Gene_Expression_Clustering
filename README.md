@@ -10,7 +10,7 @@ Gene expression data from different types of cancerous tumor may be used to iden
 The dataset includes 801 samples from different types of tumor, each with 20531 different RNA-Seq gene expression levels measured via an illumina HiSeq platform.
 
 The dataset may be found here:
-* https://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq#
+* https://archive.ics.uci.edu/ml/machine-learning-databases/00401/
 
 #### Business Case
-Categorization of cancer subtypes may allow for more specialized research to be performed, as well as for the development of specialized treatment and diagnosis programs for patients.
+Categorization of cancer subtypes may allow for more specialized research to be performed, as well as promote the development of specialized treatment and diagnosis programs for patients.
